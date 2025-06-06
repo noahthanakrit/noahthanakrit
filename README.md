@@ -1,10 +1,10 @@
 - 👋 Hi, I’m thanakrit chouchonphant
 - 👀 I’m studying in department of computer engineering, faculty of engineering, chulalongkorn university (CP51, CU Intania 108)
 - 🌱 I’m currently learning python, java, c++, html, css, js.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m interesting about software developer, data scientist, AI, Machine learning.
+- 📫
+- 😄 
+- ⚡ 
 
 <!---
 noahthanakrit/noahthanakrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
