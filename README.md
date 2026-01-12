@@ -9,7 +9,7 @@ My Introduction
 
 My projects
 ---
-💻 Co-owner of [Pacman projects](https://github.com/2110215-ProgMeth/cp-project-2024-2-f-prog-meth.git) in programming methodology course.
+💻 Co-owner of [Pacman project](https://github.com/2110215-ProgMeth/cp-project-2024-2-f-prog-meth.git) in programming methodology course.
 
 My experinence
 ---
