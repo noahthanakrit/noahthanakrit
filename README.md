@@ -9,11 +9,11 @@ My Introduction
 
 My projects
 ---
-💻 Co-owner of Pacman projects in programming methodology course.
+💻 Co-owner of [Pacman projects](https://github.com/2110215-ProgMeth/cp-project-2024-2-f-prog-meth.git) in programming methodology course.
 
 My experinence
 ---
-💻 UX/UI designer in CPolympics activity https://www.figma.com/design/hQJd1lxqU8f0Y6JtxyxuIp/CP-Olympic?node-id=0-1&p=f&t=kFwApwbpxzFfX2cG-0.
+💻 UX/UI designer in [CPolympics activity](https://www.figma.com/design/hQJd1lxqU8f0Y6JtxyxuIp/CP-Olympic?node-id=0-1&p=f&t=kFwApwbpxzFfX2cG-0).
 <!---
 noahthanakrit/noahthanakrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
