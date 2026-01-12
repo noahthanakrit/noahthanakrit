@@ -1,4 +1,5 @@
 My Introduction
+---
 - ⚡ I'm currently studying Computer Engineering at Chulalongkorn University (CU Intania 108 | CP 51)
 - ✨ I graduated from Darunsikalai science school, SCIUS Program
 - 🌱 I'm currently learning Python, C++, Java, HTML, CSS, JavaScript and TypeScript.
@@ -7,10 +8,12 @@ My Introduction
 
 
 My projects
-- Pacman projects
+---
+💻 Co-owner of Pacman projects in programming methodology course.
 
 My experinence
-- Ux/UI designer in CPolympics.
+---
+💻 UX/UI designer in CPolympics activity.
 <!---
 noahthanakrit/noahthanakrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
