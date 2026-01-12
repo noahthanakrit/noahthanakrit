@@ -1,8 +1,8 @@
 My Introduction
 ---
 - ⚡ I'm currently studying Computer Engineering at Chulalongkorn University (CU Intania 108 | CP 51)
-- ✨ I graduated from Darunsikalai science school, SCIUS Program
-- 🌱 I'm currently learning Python, C++, Java, HTML, CSS, JavaScript and TypeScript.
+- ✨ I graduated from Darunsikalai science school, SCIUS Program.
+- 🌱 I'm experienced in Python, C++, Java, HTML, CSS, and JavaScript.
 - 📚 I'm interested in UX/UI designer, Website Development, Software Development, AI, machine Learning and more!
 - 💻 Please click here to view my Resume
 
