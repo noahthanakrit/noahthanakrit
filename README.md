@@ -4,7 +4,7 @@ My Introduction
 - ✨ I graduated from Darunsikalai science school, SCIUS Program.
 - 🌱 I'm experienced in Python, C++, Java, HTML, CSS, and JavaScript.
 - 📚 I'm interested in UX/UI designer, Website Development, Software Development
-- This is my Resume [MyResume](https://drive.google.com/file/d/1Gly2kpEy5cBGHTsJNygIPCsZmYAlQHf3/view?usp=sharing)
+- This is my Resume [MyResume](https://drive.google.com/file/d/10LDfeH5RUFNdUnQH8fx8_X3vuLFKIIZM/view?usp=sharing)
 
 My projects
 ---
