@@ -10,7 +10,7 @@ My projects
 ---
 💻 Co-owner of [Pacman project](https://github.com/2110215-ProgMeth/cp-project-2024-2-f-prog-meth.git) in programming methodology course.\
 💻 Co-owner of [Uniware Project](https://drive.google.com/file/d/1Zd6euyU1uE84awdBsZcXLCssfa4OXMuV/view?usp=sharing) in database system course\
-💻 Owner of [Data-Driven Smart Coffee Vending Machine ](https://colab.research.google.com/drive/1HxPN83uwQpjMo5Tlvg-i2kuK6DnvD7uk?usp=sharing) (about Data analysis project)
+💻 Owner of Data-Driven Smart Coffee Vending Machine (Full stack developer + data analysis) **developing right now!!!**
 
 My experinence
 ---
