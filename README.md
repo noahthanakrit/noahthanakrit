@@ -14,9 +14,9 @@ My projects
 
 My experinence
 ---
-💻 UX/UI designer in [CPolympics activity](https://www.figma.com/design/hQJd1lxqU8f0Y6JtxyxuIp/CP-Olympic?node-id=0-1&p=f&t=kFwApwbpxzFfX2cG-0).
-📋 Registration Staff | Rap Puen Kao Mai Activity (Freshman Orientation 2026) 
-🤝 Participant | CU x University of Malaya Cultural & Academic Exchange Program
+💻 UX/UI designer in [CPolympics activity](https://www.figma.com/design/hQJd1lxqU8f0Y6JtxyxuIp/CP-Olympic?node-id=0-1&p=f&t=kFwApwbpxzFfX2cG-0).\
+📋 Registration Staff | Rap Puen Kao Mai Activity (Freshman Orientation 2026) \
+🤝 Participant | CU x University of Malaya Cultural & Academic Exchange Program\
 <!---
 noahthanakrit/noahthanakrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
