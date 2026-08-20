@@ -9,8 +9,7 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 
 ### 🚀 About Me
 * 🎓 **Education:** B.Eng. in Computer Engineering, Chulalongkorn University (CU Intania 108 | CP 51)
-* 🏫 **High School:** Darunsikkhalai School for Gifted Children (SCIUS Program)
-* 💡 **Primary Interests:** Full-Stack Web Development, Database Architecture, UX/UI Design, Data Analytics & Machine Learning
+* 💡 **Primary Interests:** Database Architecture, Data Analytics & Machine Learning, Data Scientist, Data Engineer
 * 🎯 **Goal:** Building scalable, accessible, and high-impact digital solutions that solve real-world problems.
 
 ---
@@ -21,7 +20,7 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 * **Databases & Architecture:** PostgreSQL, MongoDB, SQLite, Advanced SQL (CTEs, Triggers, Window Functions)
 * **Frontend & Design:** React/Next.js, Tailwind CSS, Figma (Auto Layout, Design Systems, Interactive Prototyping), JavaFX
 * **Data & Machine Learning:** Pandas, NumPy, Matplotlib, XGBoost, Random Forest, Power BI, Excel
-* **Developer Tools:** Git, GitHub, VS Code, IntelliJ, Google Colab, Make
+* **Developer Tools:** Git, GitHub, VS Code, IntelliJ, Google Colab, Make, n8n
 
 ---
 
