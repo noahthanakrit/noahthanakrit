@@ -9,7 +9,7 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 
 ### 🚀 About Me
 * 🎓 **Education:** B.Eng. in Computer Engineering, Chulalongkorn University (CU Intania 108 | CP 51)
-* 💡 **Primary Interests:** Database Architecture, Data Analytics & Machine Learning, Data Scientist, Data Engineer
+* 💡 **Primary Interests:** Database Architecture, Data Analytics & Machine Learning, Data Science, Data Engineer
 * 🎯 **Goal:** Building scalable, accessible, and high-impact digital solutions that solve real-world problems.
 
 ---
