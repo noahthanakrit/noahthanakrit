@@ -3,7 +3,7 @@
 ![Computer Engineering](https://img.shields.io/badge/Chulalongkorn%20University-CU%20Intania%20108%20%7C%20CP%2051-red)
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20UX%2FUI%20%7C%20Data-blue)
 
-Passionate Computer Engineering undergraduate at Chulalongkorn University bridging **Full Stack Software Engineering**, **UX/UI Design**, and **Data Analytics**. I love building end-to-end digital products from scratch, optimizing system architectures, and transforming raw data into meaningful user experiences.
+Passionate Computer Engineering undergraduate at Chulalongkorn University bridging ****Data Analytics**, **Data Engineering**, **Data Scientist**. I love building end-to-end digital products from scratch, optimizing system architectures, and transforming raw data into meaningful user experiences.
 
 ---
 
@@ -52,7 +52,7 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 ### 🎨 Experience & Leadership
 
 * **UX/UI Designer — CP OLYMPIC 2026:** Designed high-fidelity interactive prototypes and user flows for predictive battle interfaces and minigame portals using Figma.
-* **Participant — CU x University of Malaya Cultural & Academic Exchange:** Engaged in cross-cultural workshops discussing AI technology for healthcare accessibility.
+* **Participant — CU x University of Malaya Cultural & Academic Exchange:** Engaged in cross-cultural workshops discussing and designing prototype of AI technology for healthcare accessibility.
 * **Registration Staff — Rap Puen Kao Mai (Freshman Orientation 2026):** Managed real-time registration workflows and queue systems for thousands of incoming students.
 
 ---
