@@ -3,13 +3,13 @@
 ![Computer Engineering](https://img.shields.io/badge/Chulalongkorn%20University-CU%20Intania%20108%20%7C%20CP%2051-red)
 ![Focus](https://img.shields.io/badge/Focus-%20Data-blue)
 
-Passionate Computer Engineering undergraduate at Chulalongkorn University bridging ****Data Analytics**, **Data Engineering**, **Data Science**, **AI Engineer**. I love building end-to-end digital products from scratch, optimizing system architectures, and transforming raw data into meaningful user experiences.
+Passionate Computer Engineering undergraduate at Chulalongkorn University bridging ****Data Analytics**, **Data Engineering**, **Data Science**, **AI Engineer**, **Software Engineering**. I love building end-to-end digital products from scratch, optimizing system architectures, and transforming raw data into meaningful user experiences.
 
 ---
 
 ### 🚀 About Me
 * 🎓 **Education:** B.Eng. in Computer Engineering, Chulalongkorn University (CU Intania 108 | CP 51)
-* 💡 **Primary Interests:** Database Architecture, Data Analytics & Machine Learning, Data Science, Data Engineer, AI engineer
+* 💡 **Primary Interests:** Database Architecture, Data Analytics & Machine Learning, Data Science, Data Engineer, AI engineer, Software Engineering
 * 🎯 **Goal:** Building scalable, accessible, and high-impact digital solutions that solve real-world problems.
 
 ---
