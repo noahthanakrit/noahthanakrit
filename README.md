@@ -42,7 +42,7 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 * Built dynamic game state management, interactive UI components, and ghost movement logic using JavaFX.
 
 #### 🏛️ AWAREHOUSE Mini-Hackathon — Top 3 Winner 🏆
-**Role:** UX & Product Designer | **Focus:** Civic Tech & Digital Accessibility
+**Role:** Co- Developer Teams | **Focus:** Civic Tech & Digital Accessibility
 * Conducted UX analysis to identify user onboarding bottlenecks in Bangkok Metropolitan Administration (BMA) digital services.
 * Co-designed and prototyped an accessible digital solution to improve searchability and public information architecture under tight time constraints.
 
@@ -53,7 +53,7 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 * **UX/UI Designer — CP OLYMPIC 2026:** Designed high-fidelity interactive prototypes and user flows for predictive battle interfaces and minigame portals using Figma.
 * **Participant — CU x University of Malaya Cultural & Academic Exchange:** Engaged in cross-cultural workshops discussing and designing prototype of AI technology for healthcare accessibility.
 * **Registration Staff — Rap Puen Kao Mai (Freshman Orientation 2026):** Managed real-time registration workflows and queue systems for thousands of incoming students.
-
+* **Lead Team — UNIHACK 2026:** Spearheaded Team Rocketzza in designing and delivering MindGuard AI, a proactive anti-scam mobile solution focused on human psychology and real-time behavioral sensing.
 ---
 
 ### 📫 Connect with Me
