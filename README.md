@@ -52,9 +52,10 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 ### 🎨 Experience & Leadership
 
 * **UX/UI Designer — CP OLYMPIC 2026:** Designed high-fidelity interactive prototypes and user flows for predictive battle interfaces and minigame portals using Figma.
+* **Information Technology — Chula Real Estate 2026:** Built an interactive Executive Dashboard empowering board members to evaluate cross-functional team performance, optimize resource allocation, and execute data-driven succession planning
 * **Participant — CU x University of Malaya Cultural & Academic Exchange:** Engaged in cross-cultural workshops discussing and designing prototype of AI technology for healthcare accessibility.
 * **Registration Staff — Rap Puen Kao Mai (Freshman Orientation 2026):** Managed real-time registration workflows and queue systems for thousands of incoming students.
-* **Lead Team — UNIHACK 2026:** Spearheaded Team Rocketzza in designing and delivering MindGuard AI, a proactive anti-scam mobile solution focused on human psychology and real-time behavioral sensing.
+* **Lead Team — UNIHACK 2026:** Spearheaded Team Rocketzza in designing and delivering MindGuard AI, a proactive anti-scam mobile solution focused on human psychology and real-time behavioral sensing in UNIHACK hackathon 2026.
 ---
 
 ### 📫 Connect with Me
