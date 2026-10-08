@@ -2,7 +2,7 @@
 
 ![Computer Engineering](https://img.shields.io/badge/Chulalongkorn%20University-CU%20Intania%20108%20%7C%20CP%2051-red)
 
-Passionate Computer Engineering undergraduate at Chulalongkorn University bridging ****Data Analytics**, **Data Engineering**, **Data Science**, **AI Engineer**, **Software Engineering**. I love building end-to-end digital products from scratch, optimizing system architectures, and transforming raw data into meaningful user experiences.
+Passionate Computer Engineering undergraduate at Chulalongkorn University bridging ****Data Analytics**, **Data Engineering**, **Data Science**, **AI Engineer**, **Software Engineer**. I love building end-to-end digital products from scratch, optimizing system architectures, and transforming raw data into meaningful user experiences.
 
 ---
 
