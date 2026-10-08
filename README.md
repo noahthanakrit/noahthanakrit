@@ -56,6 +56,8 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 * **Participant — CU x University of Malaya Cultural & Academic Exchange:** Engaged in cross-cultural workshops discussing and designing prototype of AI technology for healthcare accessibility.
 * **Registration Staff — Rap Puen Kao Mai (Freshman Orientation 2026):** Managed real-time registration workflows and queue systems for thousands of incoming students.
 * **Lead Team — UNIHACK 2026:** Spearheaded Team Rocketzza in designing and delivering MindGuard AI, a proactive anti-scam mobile solution focused on human psychology and real-time behavioral sensing in UNIHACK hackathon 2026.
+* **Software Engineer - Thinkc.** create software application for solving pain point in real life.
+* **Product Business Analyst - PINUP**: take data to analyze optimization
 ---
 
 ### 📫 Connect with Me
