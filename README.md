@@ -34,8 +34,8 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 
 #### 📦 UniWare — Resource Management System
 **Role:** Co-Developer | **Stack:** PostgreSQL, MongoDB, SQL Automation
-* Architected a cross-department resource management system optimizing hardware efficiency across the Faculty of Engineering.
-* Implemented advanced SQL queries (CTEs, Window Functions) and database triggers/stored procedures to automate penalty tracking and inventory flows.
+* Developed a cross-department resource management system with PostgreSQL and MongoDB, optimizing hardware efficiency across the Faculty of   Engineering
+* Implemented advanced SQL (CTEs, Window Functions) and database automation (stored procedures, triggers) to streamline workflows, enabling automated penalty tracking and reputation management
 
 #### 🎮 Pacman Game — Programming Methodology Course
 **Role:** Co-Developer | **Stack:** Java, JavaFX, Object-Oriented Programming (OOP)
