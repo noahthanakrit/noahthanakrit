@@ -26,7 +26,7 @@ Passionate Computer Engineering undergraduate at Chulalongkorn University bridgi
 
 ### 💻 Featured Projects
 
-#### ☕ Data-Driven Smart Coffee Vending Machine *(In Development)*
+#### ☕ Data-Driven Smart Beverage Vending Platform
 **Role:** Owner & Lead Developer | **Stack:** Python, Pandas, NumPy, XGBoost, SQLite, Web Tech
 * Engineered an interactive web application for real-time beverage customization and order placement.
 * Built end-to-end Python data pipelines (Pandas/NumPy) to parse raw transactional logs into structured analytical features.
